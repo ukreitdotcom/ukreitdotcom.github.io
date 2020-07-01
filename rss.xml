@@ -12,10 +12,20 @@
       <width>128</width>
     </image>
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 30 Jun 2020 18:53:25 +0100</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2020 18:53:25 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2020 21:00:36 +0100</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2020 21:00:36 +0100</pubDate>
     <language>en</language>
     <atom:link href="https://www.uk-reit.com/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>aaInvestor's Guide to UK REITs</title>
+      <link>https://www.uk-reit.com/guides/investors-guide-to-uk-reits</link>
+      <guid>https://www.uk-reit.com/guides/investors-guide-to-uk-reits</guid>
+      <description>Data portal for real estate investment trusts in the United Kingdom.</description>
+      
+    </item>
+    
     
 
   </channel>
