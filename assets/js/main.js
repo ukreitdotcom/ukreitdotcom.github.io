@@ -18,7 +18,11 @@ if (sessionStorage && !sessionStorage.fontsLoaded) {
   var lato400 = new FontFaceObserver('Lato', { weight: 400, style: 'normal' }).load(null, 10000);
   var lato700 = new FontFaceObserver('Lato', { weight: 700, style: 'normal' }).load(null, 10000);
 
-  Promise.all([lato300, lato400, lato700]).then(function () {
+  var crimson400  = new FontFaceObserver('Crimson Text', { weight: 400, style: 'normal' }).load(null, 10000);
+  var crimson400i = new FontFaceObserver('Crimson Text', { weight: 400, style: 'italic' }).load(null, 10000);
+  var crimson700  = new FontFaceObserver('Crimson Text', { weight: 700, style: 'normal' }).load(null, 10000);
+
+  Promise.all([lato300, lato400, lato700, crimson400, crimson400i, crimson700]).then(function () {
     sessionStorage.fontsLoaded = true;
     var html = document.documentElement;
     html.classList.add("fonts-loaded");
