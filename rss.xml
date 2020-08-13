@@ -12,8 +12,8 @@
       <width>128</width>
     </image>
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 11 Aug 2020 18:41:06 +0100</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2020 18:41:06 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2020 21:36:42 +0100</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2020 21:36:42 +0100</pubDate>
     <language>en</language>
     <atom:link href="https://www.uk-reit.com/rss.xml" rel="self" type="application/rss+xml" />
     
@@ -23,6 +23,26 @@
       <link>https://www.uk-reit.com/companies/aew-uk/</link>
       <guid>https://www.uk-reit.com/companies/aew-uk/</guid>
       <description>AEW UK REIT plc is a UK based REIT with £147.86m portfolio of diversified small, high yielding industrial, office and retail properties across the UK.</description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Assura PLC</title>
+      <link>https://www.uk-reit.com/companies/assura/</link>
+      <guid>https://www.uk-reit.com/companies/assura/</guid>
+      <description>Assura is a UK based REIT, with a £2.1 billion portfolio of modern primary healthcare properties across the UK.</description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Big Yellow Group PLC</title>
+      <link>https://www.uk-reit.com/companies/big-yellow-group/</link>
+      <guid>https://www.uk-reit.com/companies/big-yellow-group/</guid>
+      <description>Big Yellow Group is a UK based REIT, with a £1.2 billion portfolio of self storage properties across the UK.</description>
       
     </item>
     
@@ -109,6 +129,16 @@
     
     
     <item>
+      <title>Empiric Student Property PLC</title>
+      <link>https://www.uk-reit.com/companies/empiric-student-property/</link>
+      <guid>https://www.uk-reit.com/companies/empiric-student-property/</guid>
+      <description>Empiric Student Property is a UK based REIT, with a £1 billion portfolio of student accommodation properties throughout the UK.</description>
+      
+    </item>
+    
+    
+    
+    <item>
       <title>GCP Student Living PLC</title>
       <link>https://www.uk-reit.com/companies/gcp-student-living/</link>
       <guid>https://www.uk-reit.com/companies/gcp-student-living/</guid>
@@ -153,6 +183,16 @@
       <link>https://www.uk-reit.com/companies/highcroft-investments/</link>
       <guid>https://www.uk-reit.com/companies/highcroft-investments/</guid>
       <description>Highcroft Investments is a UK based REIT, with a £86 millon commercial property portfolio of retail outlets, offices and retail warehouses in England and Wales.</description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Impact Healthcare REIT PLC</title>
+      <link>https://www.uk-reit.com/companies/impact-healthcare/</link>
+      <guid>https://www.uk-reit.com/companies/impact-healthcare/</guid>
+      <description>Impact Healthcare is a UK based REIT, with a £346 million portfolio of healthcare and care home properties across the UK.</description>
       
     </item>
     
@@ -219,10 +259,30 @@
     
     
     <item>
+      <title>Phoenix Spree Deutschland Limited</title>
+      <link>https://www.uk-reit.com/companies/phoenix-spree-deutschland/</link>
+      <guid>https://www.uk-reit.com/companies/phoenix-spree-deutschland/</guid>
+      <description>Phoenix Spree Deutschland is a UK based REIT, with a €730.2 million portfolio of residential and commercial properties in Berlin, Germany.</description>
+      
+    </item>
+    
+    
+    
+    <item>
       <title>Picton Property Income Limited</title>
       <link>https://www.uk-reit.com/companies/picton-property-income/</link>
       <guid>https://www.uk-reit.com/companies/picton-property-income/</guid>
       <description>Picton Property Income is a UK based REIT, with a £665 million property portfolio focused on industrial, office, retail and leisure sectors.</description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Primary Health Properties PLC</title>
+      <link>https://www.uk-reit.com/companies/primary-health-properties/</link>
+      <guid>https://www.uk-reit.com/companies/primary-health-properties/</guid>
+      <description>Primary Health Properties is a UK based REIT, with a £2.5 billion portfolio of flexible, modern primary healthcare properties across the UK.</description>
       
     </item>
     
@@ -259,10 +319,40 @@
     
     
     <item>
+      <title>Residential Secure Income PLC</title>
+      <link>https://www.uk-reit.com/companies/residential-secure-income/</link>
+      <guid>https://www.uk-reit.com/companies/residential-secure-income/</guid>
+      <description>Residential Secure Income is a UK based REIT, with a £184.5 million portfolio of retirement, shared ownership and local authority housing in Southern England.</description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Safestore Holdings PLC</title>
+      <link>https://www.uk-reit.com/companies/safestore-holdings/</link>
+      <guid>https://www.uk-reit.com/companies/safestore-holdings/</guid>
+      <description>Safestore Holdings is a UK based REIT, with a £1.5 billion portfolio of self storage properties across the UK.</description>
+      
+    </item>
+    
+    
+    
+    <item>
       <title>Schroder European Real Estate Investment Trust PLC</title>
       <link>https://www.uk-reit.com/companies/schroder-european/</link>
       <guid>https://www.uk-reit.com/companies/schroder-european/</guid>
       <description>Schroder European is a UK based REIT, with a €250 million property portfolio focused on office, retail and industrial warehousing sectors in Continental Europe.</description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Secure Income REIT PLC</title>
+      <link>https://www.uk-reit.com/companies/secure-income/</link>
+      <guid>https://www.uk-reit.com/companies/secure-income/</guid>
+      <description>Secure Income is a UK based REIT, with a £2.1 billion portfolio of healthcare, leisure and hotel properties across the UK.</description>
       
     </item>
     
@@ -309,6 +399,26 @@
     
     
     <item>
+      <title>The PRS REIT PLC</title>
+      <link>https://www.uk-reit.com/companies/the-prs/</link>
+      <guid>https://www.uk-reit.com/companies/the-prs/</guid>
+      <description>PRS is a UK based REIT, with a £470 million portfolio focusing on newly constructed private rented properties, mainly family homes in England, outside London.</description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Triple Point Social Housing REIT PLC</title>
+      <link>https://www.uk-reit.com/companies/triple-point-social-housing/</link>
+      <guid>https://www.uk-reit.com/companies/triple-point-social-housing/</guid>
+      <description>Triple Point Social Housing is a UK based REIT, with a £471.6m million portfolio of social housing properties in England.</description>
+      
+    </item>
+    
+    
+    
+    <item>
       <title>Tritax Big Box REIT PLC</title>
       <link>https://www.uk-reit.com/companies/tritax-big-box/</link>
       <guid>https://www.uk-reit.com/companies/tritax-big-box/</guid>
@@ -333,6 +443,16 @@
       <link>https://www.uk-reit.com/companies/uk-commercial-property/</link>
       <guid>https://www.uk-reit.com/companies/uk-commercial-property/</guid>
       <description>UK Commercial Property is a UK based REIT, with a £1.29 billion portfolio focusing on industrial, retail and office properties in the UK.</description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Unite Group PLC</title>
+      <link>https://www.uk-reit.com/companies/unite-group/</link>
+      <guid>https://www.uk-reit.com/companies/unite-group/</guid>
+      <description>Unite Group is a UK based REIT, with a £3.3 billion portfolio of high quality student accommodation properties in England.</description>
       
     </item>
     
